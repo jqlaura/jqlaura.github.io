@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Penguins Visualization
+title: Blog Post 0 Penguins Visualization
 ---
 In this post, we will be doing a simple visualization using the *Penguins* dataset. In particular, we want to investigate the distribution of culmen lengths for every penguin species.
 
